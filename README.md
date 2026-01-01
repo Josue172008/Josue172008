@@ -27,9 +27,9 @@
 
 ## 📫 Contato
 
-📧 E-mail: josue@example.com  
-🌐 LinkedIn: (https://www.linkedin.com/in/seulinkedin)  
-🐦 Instagram: (https://twitter.com/seutwitter)
+📧 E-mail: kanji.flimorago@gmail.com
+🌐 LinkedIn: https://www.linkedin.com/in/seulinkedin 
+🐦 Instagram: https://twitter.com/seutwitter
 
 ---
 
