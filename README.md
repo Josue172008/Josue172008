@@ -28,8 +28,8 @@
 ## 📫 Contato
 
 📧 E-mail: josue@example.com  
-🌐 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seulinkedin)  
-🐦 Twitter: [Seu Twitter](https://twitter.com/seutwitter)
+🌐 LinkedIn: (https://www.linkedin.com/in/seulinkedin)  
+🐦 Instagram: (https://twitter.com/seutwitter)
 
 ---
 
