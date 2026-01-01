@@ -27,8 +27,8 @@
 
 ## 📫 Contato
 
-📧 E-mail: kanji.flimorago@gmail.com
-🌐 LinkedIn: https://www.linkedin.com/in/seulinkedin 
+📧 E-mail: kanji.flimorago@gmail.com <br>
+🌐 LinkedIn: https://www.linkedin.com/in/seulinkedin <br>
 🐦 Instagram: https://twitter.com/seutwitter
 
 ---
